@@ -1,1 +1,2 @@
-print("hello,World")
+name=str(input("Enter name : "))
+print("hello,",name)
